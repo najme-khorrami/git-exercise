@@ -1,6 +1,6 @@
 # Quasar App (mydirectory)
 
-A Quasar Project
+this is my sample quasar project for exercising git
 
 ## Install the dependencies
 ```bash
