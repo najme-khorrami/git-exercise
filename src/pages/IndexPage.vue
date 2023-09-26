@@ -1,5 +1,8 @@
 <template>
   <q-page class="flex flex-center">
+    <div class="title">
+      <span>this is the title of img tag</span>
+    </div>
     <img
       alt="Quasar logo"
       src="~assets/quasar-logo-vertical.svg"
