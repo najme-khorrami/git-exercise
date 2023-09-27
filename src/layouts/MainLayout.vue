@@ -109,6 +109,7 @@ export default defineComponent({
       leftDrawerOpen,
       toggleLeftDrawer () {
         leftDrawerOpen.value = !leftDrawerOpen.value
+        console.log('im making some changes on git');
       }
     }
   }
